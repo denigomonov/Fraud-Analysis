@@ -1,10 +1,11 @@
 # Fraud-Analysis
 
 ## Project Goal:
+
 My main goal in this project was to see how well Keras can be used to classify binary. First, I wanted to perform a visual analysis to discover if there are any trends that can be spotted from a human perspective and point out features of interest. Finally, after labeling and feeding the data to the model, I assessed the performance of this approach.
 ---
 
-## Covid-19 Data:
+## Vechile Insurance Claim Frau Data:
 For the development of this project I retrieved data from - [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection).
 
 ---
