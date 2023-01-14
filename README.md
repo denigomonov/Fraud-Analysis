@@ -5,7 +5,7 @@ My main goal in this project was to see how well Keras can be used to classify b
 
 ---
 
-## Vechile Insurance Claim Frau Data:
+## Vechile Insurance Claim Fraud Data:
 For the development of this project I retrieved data from - [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection).
 
 ---
